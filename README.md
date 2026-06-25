@@ -44,7 +44,7 @@ git clone https://github.com/jbuck95/kitty-nvim-font-switcher.git && cd kitty-nv
     end,
   })
   ```
-  Oder die separate Datei `nvim/lua/config/kitty-font-switcher.lua` nutzen:
+  Or use the standalone file `nvim/lua/config/kitty-font-switcher.lua`:
   ```lua
   require('config.kitty-font-switcher')
   ```
